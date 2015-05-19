@@ -1,0 +1,8 @@
+D:\MyProjects\MyCSharp\MyEncryption\MyEncryption\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProjects\MyCSharp\MyEncryption\MyEncryption\obj\Debug\MyEncryption.frmMain.resources
+D:\MyProjects\MyCSharp\MyEncryption\MyEncryption\obj\Debug\MyEncryption.Properties.Resources.resources
+D:\MyProjects\MyCSharp\MyEncryption\MyEncryption\obj\Debug\MyEncryption.csproj.GenerateResource.Cache
+D:\MyProjects\MyCSharp\MyEncryption\MyEncryption\bin\Debug\MyEncryption.exe
+D:\MyProjects\MyCSharp\MyEncryption\MyEncryption\bin\Debug\MyEncryption.pdb
+D:\MyProjects\MyCSharp\MyEncryption\MyEncryption\obj\Debug\MyEncryption.exe
+D:\MyProjects\MyCSharp\MyEncryption\MyEncryption\obj\Debug\MyEncryption.pdb
